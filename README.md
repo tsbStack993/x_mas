@@ -1,4 +1,4 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+ミッドナイト・レター => RBA(founder,member,...), prisma(6.19.1)
 
 ## Getting Started
 
